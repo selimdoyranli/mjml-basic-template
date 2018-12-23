@@ -1,0 +1,13 @@
+<mjml>
+  
+  <mj-body background-color="#eee">
+
+    <mj-include path="./header.mjml" /> <!-- include kodumuz -->
+
+      <mj-include path="./carousel.mjml" />
+
+    <mj-include path="./footer.mjml" />
+
+  </mj-body>
+
+</mjml>

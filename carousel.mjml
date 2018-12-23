@@ -1,0 +1,9 @@
+<mj-section full-width="full-width">
+<mj-column>
+<mj-carousel tb-hover-border-color="#012353" left-icon="img/carousel/left.png" right-icon="img/carousel/right.png">
+          <mj-carousel-image src="img/carousel/1.jpg" />
+          <mj-carousel-image src="img/carousel/2.jpg" />
+          <mj-carousel-image src="img/carousel/3.jpg" />
+</mj-carousel>  
+</mj-column>
+</mj-section>

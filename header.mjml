@@ -1,0 +1,16 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="#012353" full-width="full-width">
+      <mj-column width="30%">
+        <mj-image href="https://radkod.com" src="img/logo.png" alt="RadKod" align="center" width="130px"></mj-image>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-navbar base-url="https://radkod.com" hamburger="hamburger" ico-color="#ddd">
+          <mj-navbar-link href="/" color="#eee">KEŞFET!</mj-navbar-link>
+          <mj-navbar-link href="/kurumsal" color="#eee">Hakkımızda</mj-navbar-link>
+          <mj-navbar-link href="/iletisim" color="#eee">İLETİŞİM</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
